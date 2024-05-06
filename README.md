@@ -20,7 +20,8 @@
 15. Heap
 16. Searching
 17. Hashing
-18. Time Complexity
+18. Collision
+19. Time Complexity
 
 ## **Notes:**
 * Each notebook provides detailed explanations along with practical code examples for better understanding.
